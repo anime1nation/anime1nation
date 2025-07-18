@@ -1,5 +1,5 @@
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
-<h1 align="center">Hi 👋, I'm Manish Kumar Sinha</h1>
+<h1 align="center">Hi 👋, I'm Manish Sinha</h1>
 <h3 align="center">A passionate Software Engineer from India.</h3>
 
 
